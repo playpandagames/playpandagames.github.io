@@ -2522,7 +2522,9 @@ ul {
 }
 
 .bg-gray {
-    background-color: #fbfbfb;
+    background-color: white;
+    transition: bottom .1s ease-in 2s, transform .22s cubic-bezier(.55, .055, .675, .19);
+
 }
 
 /* 25. Margin Padding
