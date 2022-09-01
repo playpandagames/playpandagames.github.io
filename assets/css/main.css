@@ -239,7 +239,7 @@ a {
 }
 
 a:hover {
-    text-decoration: line-through;
+    /*text-decoration: line-through;*/
     color: #ff594f;
 }
 
@@ -314,7 +314,7 @@ hr {
 .md-btn:hover {
     background-color: #ebebeb;
     color: #000;
-    text-decoration: line-through;
+  /*  text-decoration: line-through;*/
 }
 
 .md-btn[disabled] {
@@ -957,7 +957,7 @@ ul {
 
 .overlay-menu ul li.active > a, .overlay-menu ul li a:hover {
     color: #ff594f;
-    text-decoration: line-through;
+    /*text-decoration: line-through;*/
 }
 
 .fs-button {
@@ -2523,6 +2523,7 @@ ul {
 
 .bg-gray {
     background-color: white;
+
 }
 
 /* 25. Margin Padding
